@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0B9F4429-5FCC-46C3-90C3-63E3E873FC71</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0B9F4429-5FCC-46C3-90C3-63E3E873FC71.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602236155.86134601</real>
+			<key>timeStoppedRecording</key>
+			<real>602236163.88381195</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>0B9F4429-5FCC-46C3-90C3-63E3E873FC71</string>
+		</dict>
+		<key>0DFF8E50-C58D-48C5-B639-D5AF880E16D3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0DFF8E50-C58D-48C5-B639-D5AF880E16D3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602171696.05336702</real>
+			<key>timeStoppedRecording</key>
+			<real>602171707.05431795</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>0DFF8E50-C58D-48C5-B639-D5AF880E16D3</string>
+		</dict>
+		<key>0FE94A7A-1CA6-41F6-B97E-C3C84683449E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0FE94A7A-1CA6-41F6-B97E-C3C84683449E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602236450.73443997</real>
+			<key>timeStoppedRecording</key>
+			<real>602236459.21313095</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>0FE94A7A-1CA6-41F6-B97E-C3C84683449E</string>
+		</dict>
+		<key>6BA3FED7-73F6-47D8-BC67-95EDBE619D82</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6BA3FED7-73F6-47D8-BC67-95EDBE619D82.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602236163.67523301</real>
+			<key>timeStoppedRecording</key>
+			<real>602236190.95835698</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>6BA3FED7-73F6-47D8-BC67-95EDBE619D82</string>
+		</dict>
+		<key>7CCC1A70-B5C4-42E4-9AF4-A6B5EA0512FA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7CCC1A70-B5C4-42E4-9AF4-A6B5EA0512FA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602236385.55189705</real>
+			<key>timeStoppedRecording</key>
+			<real>602236392.72070098</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>7CCC1A70-B5C4-42E4-9AF4-A6B5EA0512FA</string>
+		</dict>
+		<key>A1609126-ECF6-48DE-A1DE-0B5C6904D472</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A1609126-ECF6-48DE-A1DE-0B5C6904D472.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602236346.84992397</real>
+			<key>timeStoppedRecording</key>
+			<real>602236354.87566197</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>A1609126-ECF6-48DE-A1DE-0B5C6904D472</string>
+		</dict>
+		<key>CB0B80B0-A5AC-4B8D-87F2-9B817260DDB6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB0B80B0-A5AC-4B8D-87F2-9B817260DDB6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602236511.477512</real>
+			<key>timeStoppedRecording</key>
+			<real>602236518.52765703</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>CB0B80B0-A5AC-4B8D-87F2-9B817260DDB6</string>
+		</dict>
+		<key>DF8C26D1-D64B-4EDF-8EC9-F71DA5CF08BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DF8C26D1-D64B-4EDF-8EC9-F71DA5CF08BA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>双链表 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>双链表</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug 双链表</string>
+			<key>timeStartedRecording</key>
+			<real>602236545.75852895</real>
+			<key>timeStoppedRecording</key>
+			<real>602236552.19201005</real>
+			<key>title</key>
+			<string>Debug 双链表</string>
+			<key>uniqueIdentifier</key>
+			<string>DF8C26D1-D64B-4EDF-8EC9-F71DA5CF08BA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
